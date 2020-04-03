@@ -1,0 +1,10 @@
+# python
+venv
+.ipynb_checkpoints
+
+# vscode
+.vscode
+
+# project
+*.csv
+/_output
