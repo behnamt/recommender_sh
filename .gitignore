@@ -1,10 +1,16 @@
 # python
 venv
 .ipynb_checkpoints
+__pycache__
 
 # vscode
 .vscode
 
-# project
+# data files
 *.csv
-/_output
+
+# Recommender project
+Recommender/data
+Recommender/model
+Recommender/_output
+

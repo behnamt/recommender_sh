@@ -1,0 +1,4 @@
+**/__pycache__
+Dockerfile
+Recommender/data
+Recommender/model
