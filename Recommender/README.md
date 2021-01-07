@@ -58,7 +58,7 @@ curl -X POST 127.0.0.1:5055/event/new-product --header 'Content-Type: applicatio
 --data-raw '{
     "NAME": "new pew",
     "SKU": "223423755_1994",
-    "IMAGE":"https://static.opus-fashion.com/images/product/1004/224023755/320x408/de/weiss_ringelshirt_damen_svonny_opus_1004.jpg",
+    "IMAGE":"https://link-to-an-image.jpg",
     "ATTRIBUTE": "\"{\"\"color\"\":\"\"milk\"\",\"\"colorCode\"\":1004,\"\"modelCode\"\":224023755,\"\"label\"\":\"\"Svonny\"\",\"\"brand\"\":\"\"OPUS\"\",\"\"keywordCategory\"\":20}\""
 }'
 ```
